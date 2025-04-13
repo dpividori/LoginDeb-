@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DPividori\\Documents\\GitHub\\ejercicioLogin-Deb\\Facultad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1442D76-1FF7-4F30-9A38-1093A1B057BA}|Facultad\\Facultad.csproj|c:\\users\\dpividori\\documents\\github\\ejerciciologin-deb\\facultad\\facultad\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1442D76-1FF7-4F30-9A38-1093A1B057BA}|Facultad\\Facultad.csproj|solutionrelative:facultad\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1442D76-1FF7-4F30-9A38-1093A1B057BA}|Facultad\\Facultad.csproj|C:\\Users\\DPividori\\Documents\\GitHub\\ejercicioLogin-Deb\\Facultad\\facultad\\datos\\credenciales.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B1442D76-1FF7-4F30-9A38-1093A1B057BA}|Facultad\\Facultad.csproj|solutionrelative:facultad\\datos\\credenciales.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1442D76-1FF7-4F30-9A38-1093A1B057BA}|Facultad\\Facultad.csproj|C:\\Users\\DPividori\\Documents\\GitHub\\ejercicioLogin-Deb\\Facultad\\facultad\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1442D76-1FF7-4F30-9A38-1093A1B057BA}|Facultad\\Facultad.csproj|solutionrelative:facultad\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "credenciales.csv",
+              "DocumentMoniker": "C:\\Users\\DPividori\\Documents\\GitHub\\ejercicioLogin-Deb\\Facultad\\Facultad\\Datos\\credenciales.csv",
+              "RelativeDocumentMoniker": "Facultad\\Datos\\credenciales.csv",
+              "ToolTip": "C:\\Users\\DPividori\\Documents\\GitHub\\ejercicioLogin-Deb\\Facultad\\Facultad\\Datos\\credenciales.csv",
+              "RelativeToolTip": "Facultad\\Datos\\credenciales.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-06T15:03:54.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormInicio.cs",
+              "DocumentMoniker": "C:\\Users\\DPividori\\Documents\\GitHub\\ejercicioLogin-Deb\\Facultad\\Facultad\\FormInicio.cs",
+              "RelativeDocumentMoniker": "Facultad\\FormInicio.cs",
+              "ToolTip": "C:\\Users\\DPividori\\Documents\\GitHub\\ejercicioLogin-Deb\\Facultad\\Facultad\\FormInicio.cs",
+              "RelativeToolTip": "Facultad\\FormInicio.cs",
+              "ViewState": "AgIAAGsAAACMupmZmRkdwHAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:44:15.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DPividori\\Documents\\GitHub\\ejercicioLogin-Deb\\Facultad\\Facultad\\FormInicio.cs",
+              "RelativeDocumentMoniker": "Facultad\\FormInicio.cs",
+              "ToolTip": "C:\\Users\\DPividori\\Documents\\GitHub\\ejercicioLogin-Deb\\Facultad\\Facultad\\FormInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Facultad\\FormInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:30:25.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
